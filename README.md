@@ -1,4 +1,4 @@
-# Web3-aws
+# Web3-aws-eth
 Library for signing requests with AWS4Signer on a custom Web3 provider
 ## How to use
 
