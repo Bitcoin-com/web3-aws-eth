@@ -1,6 +1,6 @@
 # Web3-aws
 Library for signing requests with AWS4Signer on a custom Web3 provider
-##How to use
+## How to use
 
 ### HttpProvider
 ```java
